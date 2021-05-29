@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-    <img src="https://github.com/OlegKunitsyn/openpdfreader/blob/main/assets/logo.svg?raw=true" width="100">
+    <img src="https://github.com/OlegKunitsyn/openpdfreader/blob/main/assets/logo.svg?raw=true" width="160">
   <br>
   Open PDF Reader
   <br>
