@@ -1,0 +1,25 @@
+<resources>
+    <string name="action_settings">Paramètres</string>
+    <string name="qualitysettings">Qualité</string>
+    <string name="quality">Rendu de haute qualité</string>
+    <string name="alias">Anti crénelage</string>
+    <string name="night_mode">Mode nuit</string>
+    <string name="keep_screen_on">Gardez l\'écran allumé</string>
+    <string name="scrollsettings">La navigation</string>
+    <string name="scroll">Défilement horizontal</string>
+    <string name="snap">Centrer la page</string>
+    <string name="fling">Balayage rapide</string>
+
+    <string name="pick_file_error">Impossible de sélectionner le fichier.</string>
+    <string name="file_opening_error">Impossible d\'ouvrir le fichier.</string>
+    <string name="page_opening_error">Impossible d\'ouvrir la page.</string>
+    <string name="protected_pdf">PDF protégé</string>
+    <string name="enter_password">Veuillez entrer le mot de passe:</string>
+    <string name="wrong_password">Mauvais mot de passe.</string>
+
+    <string name="action_about">À propos</string>
+    <string name="version">Version</string>
+    <string name="privacy">Politique de confidentialité</string>
+    <string name="privacy_text">L\'application ne collecte aucune donnée. Pas de publicité, pas de trackers. Des autorisations de stockage sont requises pour ouvrir les fichiers PDF sur votre appareil.</string>
+    <string name="code">Code source</string>
+</resources>

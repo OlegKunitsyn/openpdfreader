@@ -1,0 +1,25 @@
+<resources>
+    <string name="action_settings">ਸੈਟਿੰਗਜ਼</string>
+    <string name="qualitysettings">ਗੁਣ</string>
+    <string name="quality">ਉੱਚ-ਗੁਣਵੱਤਾ ਪੇਸ਼ਕਾਰੀ</string>
+    <string name="alias">ਵਿਰੋਧੀ ਲਾਇਸਿੰਸ</string>
+    <string name="night_mode">ਰਾਤ ਦਾ ਮੋਡ</string>
+    <string name="keep_screen_on">ਸਕ੍ਰੀਨ ਚਾਲੂ ਰੱਖੋ</string>
+    <string name="scrollsettings">ਨੇਵੀਗੇਸ਼ਨ</string>
+    <string name="scroll">ਖਿਤਿਜੀ ਸਕ੍ਰੌਲਿੰਗ</string>
+    <string name="snap">ਪੇਜ ਨੂੰ ਸੈਂਟਰ ਕਰੋ</string>
+    <string name="fling">ਤੇਜ਼ ਸਵਾਈਪ</string>
+
+    <string name="pick_file_error">ਫਾਈਲ ਚੁਣਨ ਵਿੱਚ ਅਸਮਰੱਥ.</string>
+    <string name="file_opening_error">ਫਾਈਲ ਖੋਲ੍ਹਣ ਵਿੱਚ ਅਸਮਰੱਥ.</string>
+    <string name="page_opening_error">ਪੇਜ ਖੋਲ੍ਹਣ ਵਿੱਚ ਅਸਮਰੱਥ.</string>
+    <string name="protected_pdf">ਸੁਰੱਖਿਅਤ ਪੀਡੀਐਫ</string>
+    <string name="enter_password">ਕਿਰਪਾ ਕਰਕੇ ਪਾਸਵਰਡ ਦਰਜ ਕਰੋ:</string>
+    <string name="wrong_password">ਗਲਤ ਗੁਪਤ - ਕੋਡ.</string>
+
+    <string name="action_about">ਬਾਰੇ</string>
+    <string name="version">ਵਰਜਨ</string>
+    <string name="privacy">ਪਰਾਈਵੇਟ ਨੀਤੀ</string>
+    <string name="privacy_text">ਐਪ ਕੋਈ ਡਾਟਾ ਇੱਕਠਾ ਨਹੀਂ ਕਰਦਾ. ਕੋਈ ਇਸ਼ਤਿਹਾਰ ਨਹੀਂ, ਕੋਈ ਟਰੈਕਰ ਨਹੀਂ. ਤੁਹਾਡੇ ਡਿਵਾਈਸ ਤੇ ਪੀ ਡੀ ਐਫ ਫਾਈਲਾਂ ਖੋਲ੍ਹਣ ਲਈ ਸਟੋਰੇਜ ਅਨੁਮਤੀਆਂ ਦੀ ਜਰੂਰਤ ਹੈ.</string>
+    <string name="code">ਸੂਤਰ ਸੰਕੇਤਾਵਲੀ</string>
+</resources>

@@ -1,0 +1,25 @@
+<resources>
+    <string name="action_settings">সেটিংস</string>
+    <string name="qualitysettings">গুণ</string>
+    <string name="quality">উচ্চমানের রেন্ডারিং</string>
+    <string name="alias">অ্যান্টি-এলিয়াসিং</string>
+    <string name="night_mode">রাত মোড</string>
+    <string name="keep_screen_on">স্ক্রিন চালু রাখুন</string>
+    <string name="scrollsettings">নেভিগেশন</string>
+    <string name="scroll">অনুভূমিক স্ক্রোলিং</string>
+    <string name="snap">পৃষ্ঠাটি কেন্দ্র করুন</string>
+    <string name="fling">দ্রুত সোয়াইপ করুন</string>
+
+    <string name="pick_file_error">ফাইল বাছাই করতে অক্ষম।</string>
+    <string name="file_opening_error">ফাইলটি খুলতে অক্ষম।</string>
+    <string name="page_opening_error">পৃষ্ঠাটি খুলতে অক্ষম।</string>
+    <string name="protected_pdf">সুরক্ষিত পিডিএফ</string>
+    <string name="enter_password">দয়া করে পাসওয়ার্ড লিখুন:</string>
+    <string name="wrong_password">ভুল গোপন নম্বর.</string>
+
+    <string name="action_about">সম্পর্কিত</string>
+    <string name="version">সংস্করণ</string>
+    <string name="privacy">গোপনীয়তা নীতি</string>
+    <string name="privacy_text">অ্যাপ্লিকেশন কোনও ডেটা সংগ্রহ করে না। কোনও বিজ্ঞাপন নেই, কোনও ট্র্যাকার নেই। আপনার ডিভাইসে পিডিএফ ফাইলগুলি খোলার জন্য স্টোরেজ অনুমতিগুলির প্রয়োজন।</string>
+    <string name="code">সোর্স কোড</string>
+</resources>

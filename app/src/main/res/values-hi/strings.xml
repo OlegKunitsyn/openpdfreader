@@ -1,0 +1,25 @@
+<resources>
+    <string name="action_settings">समायोजन</string>
+    <string name="qualitysettings">गुणवत्ता</string>
+    <string name="quality">उच्च गुणवत्ता प्रतिपादन</string>
+    <string name="alias">विरोधी अलियासिंग</string>
+    <string name="night_mode">रात का मोड</string>
+    <string name="keep_screen_on">स्क्रीन को चालू रखें</string>
+    <string name="scrollsettings">पथ प्रदर्शन</string>
+    <string name="scroll">क्षैतिज स्क्रॉलिंग</string>
+    <string name="snap">पृष्ठ को केंद्र में रखें</string>
+    <string name="fling">त्वरित स्वाइप</string>
+
+    <string name="pick_file_error">फ़ाइल चुनने में असमर्थ.</string>
+    <string name="file_opening_error">फ़ाइल खोलने में असमर्थ.</string>
+    <string name="page_opening_error">पेज खोलने में असमर्थ.</string>
+    <string name="protected_pdf">संरक्षित पीडीएफ</string>
+    <string name="enter_password">कृप्या पास्वर्ड भरो:</string>
+    <string name="wrong_password">गलत पासवर्ड।</string>
+
+    <string name="action_about">तकरीबन</string>
+    <string name="version">संस्करण</string>
+    <string name="privacy">गोपनीयता नीति</string>
+    <string name="privacy_text">ऐप कोई डेटा एकत्र नहीं करता है। कोई विज्ञापन नहीं, कोई ट्रैकर्स नहीं। आपके डिवाइस पर पीडीएफ फाइलों को खोलने के लिए स्टोरेज अनुमतियों की आवश्यकता होती है।</string>
+    <string name="code">सोर्स कोड</string>
+</resources>

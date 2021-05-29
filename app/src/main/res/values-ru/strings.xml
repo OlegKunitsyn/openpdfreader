@@ -1,0 +1,25 @@
+<resources>
+    <string name="action_settings">Настройки</string>
+    <string name="qualitysettings">Качество</string>
+    <string name="quality">Качественный рендеринг</string>
+    <string name="alias">Сглаживание</string>
+    <string name="night_mode">Ночной режим</string>
+    <string name="keep_screen_on">Оставьте экран включенным</string>
+    <string name="scrollsettings">Навигация</string>
+    <string name="scroll">Горизонтальная прокрутка</string>
+    <string name="snap">Центрировать страницу</string>
+    <string name="fling">Быстрое смахивание</string>
+
+    <string name="pick_file_error">Невозможно выбрать файл.</string>
+    <string name="file_opening_error">Невозможно открыть файл.</string>
+    <string name="page_opening_error">Невозможно открыть страницу.</string>
+    <string name="protected_pdf">Защищенный PDF</string>
+    <string name="enter_password">Пожалуйста введите пароль:</string>
+    <string name="wrong_password">Неправильный пароль.</string>
+
+    <string name="action_about">О</string>
+    <string name="version">Версия</string>
+    <string name="privacy">Политика конфиденциальности</string>
+    <string name="privacy_text">Приложение не собирает никаких данных. Ни рекламы, ни трекеров. Для открытия файлов PDF на вашем устройстве требуются разрешения на хранение.</string>
+    <string name="code">Исходный код</string>
+</resources>

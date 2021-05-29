@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <PreferenceCategory android:title="@string/qualitysettings">
+        <SwitchPreference
+            android:defaultValue="false"
+            android:key="quality"
+            android:title="@string/quality" />
+        <SwitchPreference
+            android:defaultValue="true"
+            android:key="aliasing"
+            android:title="@string/alias" />
+        <SwitchPreference
+            android:defaultValue="false"
+            android:key="night"
+            android:title="@string/night_mode" />
+        <SwitchPreference
+            android:defaultValue="false"
+            android:key="screen_on"
+            android:title="@string/keep_screen_on" />
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="@string/scrollsettings">
+        <SwitchPreference
+            android:defaultValue="false"
+            android:key="scrolling"
+            android:title="@string/scroll" />
+        <SwitchPreference
+            android:defaultValue="false"
+            android:key="snap"
+            android:title="@string/snap" />
+        <SwitchPreference
+            android:defaultValue="false"
+            android:key="fling"
+            android:title="@string/fling" />
+    </PreferenceCategory>
+
+</PreferenceScreen>

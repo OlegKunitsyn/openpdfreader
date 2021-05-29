@@ -1,0 +1,25 @@
+<resources>
+    <string name="action_settings">設定</string>
+    <string name="qualitysettings">品質</string>
+    <string name="quality">高品質のレンダリング</string>
+    <string name="alias">アンチエイリアシング</string>
+    <string name="night_mode">ナイトモード</string>
+    <string name="keep_screen_on">画面をオンにしておく</string>
+    <string name="scrollsettings">ナビゲーション</string>
+    <string name="scroll">水平スクロール</string>
+    <string name="snap">ページを中央に配置</string>
+    <string name="fling">クイックスワイプ</string>
+
+    <string name="pick_file_error">ファイルを選択できません。</string>
+    <string name="file_opening_error">ファイルを開くことができません。</string>
+    <string name="page_opening_error">ページを開くことができません。</string>
+    <string name="protected_pdf">保護されたPDF</string>
+    <string name="enter_password">パスワードを入力してください：</string>
+    <string name="wrong_password">間違ったパスワード。</string>
+
+    <string name="action_about">約</string>
+    <string name="version">バージョン</string>
+    <string name="privacy">個人情報保護方針</string>
+    <string name="privacy_text">アプリはデータを収集しません。広告もトラッカーもありません。デバイスで PDF ファイルを開くには、ストレージのアクセス許可が必要です。</string>
+    <string name="code">ソースコード</string>
+</resources>
