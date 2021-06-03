@@ -10,7 +10,7 @@ android {
         applicationId "com.github.olegkunitsyn.openpdfreader"
         minSdkVersion 19
         targetSdkVersion 30
-        versionCode 1
+        versionCode 4
         versionName "3.1"
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
